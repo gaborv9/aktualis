@@ -1,57 +1,22 @@
-﻿The board will reconvene at 10 a.m. tomorrow.	to reconvene<br>to meet again after a break<br>újra találkozik<br><br>
-To truly understand your risk appetite, you need to first understand your risk-bearing capacity and risk-bearing tolerance.	risk bearing = risk-bearing<br>Having or sharing responsibility for accepting the losses if projects go wrong.<br>kockázatvállaló, kockázatvállalási<br><br>
-With traditional pensions the employer bears the risks and pays the benefits.	to bear a risk<br>to be responsible for or accept the risk involved in something<br>kockázatot vállal<br><br>
-She carved out a reputation for herself as a high-powered lawyer.	to carve out sg<br>to create or obtain something that helps you by skillful activities<br>szerez valamit<br><br>
-Japan has pledged $100 million in humanitarian aid.	to pledge sg<br>to formally promise to give or do something<br>ígéretet tesz<br><br>
-During his campaign, he pledged that he would not raise taxes.	to pledge that<br>to formally promise to give or do something<br>ígéretet tesz<br><br>
-The group has pledged to continue campaigning.	to pledge to do sg<br>to formally promise to give or do something<br>ígéretet tesz<br><br>
-They originally asked for $5 million, but finally settled for a lesser sum.	lesser<br>OPP greater, formal - not as large, as important, or as much as something else<br>kisebb<br><br>
-This was true in Madrid and, to a lesser extent, Valencia and Seville.	to a lesser degree / extent<br>OPP greater, formal - not as large, as important, or as much as something else<br>kisebb mértékben<br><br>
-Forty lashes is less punishment than 100 lashes.<br>Being pelted with rotten tomatoes is a lesser punishment than being pelted with rocks.	"less vs lesser<br>Less refers to quantity, lesser refers to quality.
-Your sentence could be rephrased as ""substitute less punishment for more punishment."" Here we are saying that the amount of punishment is smaller. But if you say ""substitute the lesser punishment"" you are saying the type of punishment is not as severe.<br>kevesebb vs kisebb<br><br>"
-A PowerPoint slide deck can vary in size and style depending on the purpose of the presentation and the information it carries, but that’s the beauty of it.	powerpoint deck<br>A PowerPoint deck is the collection of slides that compose a presentation. Think of a deck of cards. Each slide is a single card that makes up the deck.<br>powerpoint prezentáció<br><br>
-I can’t speak for the others, but I’d love to come myself.	to speak for sy<br>to express the thoughts or opinions of someone<br>valakinek a nevében beszél<br><br>
-I have nothing more to say. The facts speak for themselves. [=the facts clearly show what is true]	to speak for themselves<br>to express the thoughts or opinions of someone<br>magukért beszélnek<br><br>
-The watch mechanism is extremely intricate and very difficult to repair.	intricate<br>having a lot of different parts and small details that fit together<br>bonyolult<br><br>
-I don't have time to take on any new responsibilities right now.	to take on sg<br>to begin to deal with something, such as a job or responsibility<br>vállal valamit<br><br>
-We didn’t have the systems in place to deal with so many orders.	in place<br>to exist and be capable of being used<br>megvan, rendelkezésére áll<br><br>
-We'll be there in mid-August.	mid<br>in or near the middle of something<br>közepén<br><br>
-The results are shown in diagram 2.	diagram<br>a simple drawing using lines to explain where something is, how something works, etc.<br>diagramm<br><br>
-They hinted that there might be more job losses.	to hint that<br>to say something or give information about something in an indirect way<br>utal, céloz<br><br>
-He's been hinting at the possibility of running for mayor.	to hint at sg<br>to talk about something in an indirect way<br>utal, céloz<br><br>
-The boss hinted about possible layoffs.	to hint about sg<br>to say something or give information about something in an indirect way<br>utal, céloz<br><br>
-On paper, the procedure is relatively simple.	on paper<br>SYN in theory - used to say that something seems to be true or likely when you read or hear what is known about it but that the real situation may be different<br>elméletben<br><br>
-She argues that watching too much TV is detrimental to a child's intellectual and social development.	to be detrimental to sg<br>formal - causing damage or injury<br>károsan hat valakire<br><br>
-The detrimental effects of overeating are well known.	detrimental<br>formal - causing damage or injury<br>káros<br><br>
-The tax office liaises closely with our department on such matters.	to liaise with sy<br>especially British English - to work closely with somebody and exchange information with them<br>együttműködik valakivel<br><br>
-She acts as a liaison between the police department and city schools.	liaison<br>a person who helps organizations or groups to work together and provide information to each other<br>kapcsolattartó<br><br>
-Administrators need to maintain closer liaison with employees.	liaison (noncount)<br>a relationship that allows different organizations or groups to work together and provide information to each other<br>kapcsolat<br><br>
-Administrators need to establish a close liaison with employees.	liaison (singular)<br>a relationship that allows different organizations or groups to work together and provide information to each other<br>kapcsolat<br><br>
-She said it was quote, “time for a change,” unquote.	quote... unquote<br>spoken - used at the beginning and end of a word or phrase that someone else has said or written, to emphasize that you are repeating it exactly<br>idézem<br><br>
-He said he's been living under, quote, unquote, “intense pressure.”	quote, unquote<br>spoken - used at the beginning and end of a word or phrase that someone else has said or written, to emphasize that you are repeating it exactly<br>idézem<br><br>
-She had an unexpected windfall when a cousin died.	windfall<br>an unexpected amount of money that you get as a gift, prize, etc.<br>windfall, váratlan pénz<br><br>
-The computer took a minute to download the file. Well, technically it took 53 seconds.	technically<br>according to a very strict explanation of a rule, fact, etc.<br>tulajdonképpen, igazából<br><br>
-She always strives for perfection.	to strive, strove, striven for sg<br>formal - to try very hard to do or achieve something<br>törkekszik valamire<br><br>
-Ultimately, you'll have to make the decision yourself.	ultimately<br>in the end; finally<br>végül, végső soron<br><br>
-to hold an international forum on drug abuse	forum on sg<br>an organization, meeting, TV programme etc where people have a chance to publicly discuss an important subject<br>fórum valamiről<br><br>
-The journal aims to provide a forum for discussion and debate.	forum for sg<br>an organization, meeting, TV programme etc where people have a chance to publicly discuss an important subject<br>fórum valamihez<br><br>
-We hope to get funding to digitize the library's archive collection.	to digitize sg<br>to put information into a digital form<br>digitalizál valamit<br><br>
-Digitalization is the use of digital technologies to change a business model and provide new revenue and value-producing opportunities. It is the process of moving to a digital business	digitalization<br>digitalization<br>digitalizáció<br><br>
-Police believe he is involved in an international smuggling racket.	racket<br>a business that makes money through illegal activities<br>(illegális) tevékenység<br><br>
-A tailwind is a wind that blows in the direction of travel of an object.	tailwind<br>a wind that blows from behind a moving vehicle, a runner, etc.<br>hátszél<br><br>
-a company experiencing tailwinds from increased consumer demand.	tailwinds<br>Informal - favorable economic conditions<br>hátszél<br><br>
-I didn't really want to go but he insisted.	to insist<br>to demand that something happen or that someone do something<br>ragaszkodik<br><br>
-She insisted that I should go.	to insist that<br>to demand that something happen or that someone do something<br>ragaszkodik ahhoz, hogy<br><br>
-I hopped in the car and headed down the street.	to head<br>to go in a specified direction or toward a specified place<br>valamerre megy, valamerre indul<br><br>
-After lunch, we headed back to the office.	to head<br>to go in a specified direction or toward a specified place<br>valamerre megy, valamerre indul<br><br>
-We headed south towards the capital.	to head<br>to go in a specified direction or toward a specified place<br>valamerre megy, valamerre indul<br><br>
-Where are you heading? = Where are you headed? [=where are you going?]	to be heading = to be headed<br>To be heading or headed somewhere is to be going or directed somewhere.<br>valahová tart<br><br>
-The ship was heading/headed out to sea.	to be heading = to be headed<br>To be heading or headed somewhere is to be going or directed somewhere.<br>valahová tart<br><br>
-The economy may be heading into a recession.	to head<br>to go in a specified direction or toward a specified place - often used figuratively<br>valahová tart<br><br>
-I consider her a friend.	to consider sy<br>to think of somebody/something in a particular way<br>tekint, tart valaminek<br><br>
-He's generally considered to have the finest tenor voice in the country.	to consider sy to be / have sg<br>to think of somebody/something in a particular way<br>tekint, tart<br><br>
-He considers himself an expert on the subject.	to consider yourself + noun<br>to think of somebody/something in a particular way<br>tekinti, tartja magát<br><br>
-They will take any steps they consider necessary.	to consider sy + adj.<br>to think of somebody/something in a particular way<br>tekint, tart<br><br>
-You should consider this as a long-term investment.	to consider sg as sg<br>to think of somebody/something in a particular way<br>valamiként tekint, tart<br><br>
-She considers that it is too early to form a definite conclusion.	to consider that<br>to think of somebody/something in a particular way<br>tekint, tart, vél<br><br>
-Consider yourself lucky/fortunate that you survived the accident. [=you are lucky to have survived the accident]	to consider yourself lucky / fortunate<br>to think of somebody/something in a particular way<br>szerencsésnek tart<br><br>
+﻿small-time crook/gangster etc	small-time<br>informal, disapproving - (often of criminals) not very important or successful<br>kisstílű<br><br>
+Lynn found the whole situation hilarious.	hilarious<br>extremely funny<br>(nagyon) vicces<br><br>
+The business seems legit.	legit = legitimate<br>informal - legal, or acting according to the law or the rules<br>törvényes<br><br>
+Their business operations are perfectly legitimate.	legitimate<br>allowed and acceptable according to the law<br>törvényes<br><br>
+They took over the government in an illegitimate [=illegal] seizure of power.	illegitimate<br>not allowed according to rules or laws<br>törvénytelen<br><br>
+Strike action should be regarded as a last resort, when all attempts to negotiate have failed.	as a last resort = as a final resort<br>that should be something we do only if nothing else works<br>utolsó megoldás, végső megoldás<br><br>
+“We may have to ask them for more time.” “That should be our last resort.” [=that should be something we do only if nothing else works]	last resort<br>that should be something we do only if nothing else works<br>utolsó megoldás, végső megoldás<br><br>
+If you don't participate in the planning of the trip, you can't complain about what we plan.	to participate in sg<br>to be involved with others in doing something: to take part in an activity or event with others<br>részt vesz valamiben<br><br>
+On behalf of the department I would like to thank you all.	on behalf of somebody<br>as the representative of somebody or instead of them<br>valakinek a nevében<br><br>
+Mr Knight cannot be here, so his wife will accept the prize on his behalf.	on somebody's behalf<br>as the representative of somebody or instead of them<br>valakinek a nevében<br><br>
+The police are after him.	to be after sg<br>to be looking for someone or something or trying to find or get him, her, or it<br>nyomában van<br><br>
+He's after Jane's job (= wants it for himself).	to be after sg<br>to be looking for someone or something or trying to find or get him, her, or it<br>akar valamit<br><br>
+He freaked out when he heard he'd got the job.	to freak out<br>informal - to be or cause to be in a heightened emotional state, such as that of fear, anger, or excitement<br>freak out<br><br>
+This song just freaks me out whenever I hear it.	to freak sy out<br>informal - to be or cause to be in a heightened emotional state, such as that of fear, anger, or excitement<br>freak out<br><br>
+malicious software/applications	malicious<br>(computing) (of software or computer code) intended to damage somebody's computer or data files<br>rosszindulatú<br><br>
+You fill out a form by filling in your information; on the other hand, the individual boxes can also be filled in.	to fill in vs to fill out<br>So it's "fill out" for the whole form; "fill in" for the individual fields and for the information that goes in them.<br>kitölt (formot) vs kitölt (form részeit)<br><br>
+There’s no blueprint for how companies should disclose their climate ambitions and action plans.	blueprint<br>A model or prototype.<br>minta<br><br>
+He was charged with fraud and racketeering.	racketeering<br>disapproving - the act or crime of making money through illegal activities<br>illegális tevékenység végzése<br><br>
+Attempts to restrict parking in the city centre have further aggravated the problem of traffic congestion.	to aggravate<br>to make a bad situation, an illness, or an injury worse<br>súlyosbít<br><br>
+We don't see each other too often—if anything we don't see each other often enough!	if anything<br>used when saying that what people may believe is not true, and the opposite may be true<br>épp ellenkezőleg, inkább<br><br>
+The economy has not improved. It has gotten worse, if anything.	if anything<br>used when saying that what people may believe is not true, and the opposite may be true<br>épp ellenkezőleg, inkább<br><br>
+We need to assess what happened and what, if anything, we could have done to prevent it.	if anything<br>used when saying that there may be nothing<br>ha egyáltalán bármi is, ha egyáltalán valami<br><br>
